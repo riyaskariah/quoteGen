@@ -1,0 +1,15 @@
+.quote-box{
+    background-color: orangered;
+    position:fixed;
+    top: 35%;
+    left: 43%;
+    width: 38em;
+    height:14em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    text-align: center;
+    color: aliceblue;
+}
+
